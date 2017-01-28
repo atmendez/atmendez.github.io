@@ -1,2 +1,26 @@
-name: Ariel T. Méndez
-markdown: kramdown
+# Site Settings
+title:               Ariel T. Méndez
+tagline:             #Personal Website
+description:
+baseurl:            ""
+url:                #"https://www.atmendez.com"
+github:
+  url:               "https://atmendez.github.io"
+author:
+  name:              "Ariel T. Méndez"
+  email:             "atmendez@gmail.com"
+  twitter:           "atmendez"
+  instagram:         ""
+  github:            ""
+  facebook:          ""
+  linkedin:          "atmendez"
+# paginate:            5
+
+
+# Build settings
+markdown:            kramdown
+highlighter:         rouge
+permalink:           none
+# gems:                [jekyll-paginate]
+
+# url:               #"https://atmendez.github.io"

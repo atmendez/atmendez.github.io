@@ -2,7 +2,7 @@
 layout: page
 title: CV
 ---
-A PDF version of my CV may be [downloaded by clicking here](images/Ariel-Mendez-CV-160809.pdf)
+A PDF version of my CV may be [downloaded by clicking here](images/Ariel Mendez CV 160809.pdf)
 	
 ## Education
 
